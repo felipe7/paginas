@@ -1,0 +1,25 @@
+body{
+	text-align: center;
+	background: #a66;
+
+}
+p{
+	background: #a66;
+	font-size: .5em;
+	color: #565;
+}
+.tit{
+	background: #aadd55;
+	padding: .5em .5em .5em 5em;
+	margin: .5em .5em .5em .5em;
+	border-radius: 50px 10px;
+	box-shadow: 16px 25px 20px #037;
+}
+.subTit{
+	background: #4747D8;
+	padding: 5.5em 22.5em 6.5em 22.5em;
+	margin: -3em 2em -1em 2em;
+	border-radius: 100px 500px;
+	box-shadow: -22px 12px 63px #3447D1;
+}
+
